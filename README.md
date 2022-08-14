@@ -1,2 +1,3 @@
-# HTML Temelleri#� �K�o�d�l�u�y�o�r�u�z�O�d�e�v�l�e�r�i
+# HTML Temelleri#
+Kodluyoruz Odevler
 (https://www.patika.dev/)
